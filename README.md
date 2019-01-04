@@ -4,7 +4,7 @@ This project runs a UI that gives a prediction of the student grade either by us
 
 ## Getting Started
 
-The code was wriiten using Python3 for UI and ANN and Matlab for ANFIS.
+The code was written using Python3 for UI and ANN and Matlab for ANFIS.
 
 ### Prerequisites
 
@@ -13,5 +13,6 @@ Following are the packages you will need:
 2. Pandas
 3. TensorFlow
 4. Matlab engine
-5.Tkinter
+5. Tkinter
+6. Neuro Fuzzy tool box in Matlab
 
