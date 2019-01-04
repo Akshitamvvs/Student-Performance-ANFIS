@@ -16,3 +16,15 @@ Following are the packages you will need:
 5. Tkinter
 6. Neuro Fuzzy tool box in Matlab
 
+### Installation
+For the matlab engine - follow the steps in this link
+https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html
+
+Numpy, Pandas and Tkinter
+```
+pip install numpy 
+pip install pandas
+pip install tkinter
+```
+Tensorflow - follow the steps in this link
+https://www.tensorflow.org/install/pip
