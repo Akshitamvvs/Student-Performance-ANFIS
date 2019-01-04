@@ -1,12 +1,17 @@
-#Student-Performance-ANFIS
+# Student Performance Prediction using ANFIS and ANN
 
-This code runs a desktop application created using Python Tkinter package and predicts the student's performance grade using
-Artificial Neural Network(ANN) and Adaptive Neuro Fuzzy Inference System (ANFIS) by taking the user input.
+This project runs a UI that gives a prediction of the student grade either by using ANN(Artificial Neural Network) or ANFIS(Adaptive Neuro Fuzzy Inference System) by taking in the user input.
 
-##Packages used :
-1. Tkinter
-2. Numpy
-3. Pandas
-4. Matlab Engine
-5. Tensor Flow
+## Getting Started
+
+The code was wriiten using Python3 for UI and ANN and Matlab for ANFIS.
+
+### Prerequisites
+
+Following are the packages you will need:
+1. Numpy
+2. Pandas
+3. TensorFlow
+4. Matlab engine
+5.Tkinter
 
